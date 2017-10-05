@@ -1,0 +1,8 @@
+galaxy_info:
+  author: Joseph Wright
+  description: 'Ansible: the missing modules, filters, and plugins'
+  company: Cloudboss Corporation
+  license: MIT
+  min_ansible_version: 1.2
+  galaxy_tags: []
+dependencies: []
